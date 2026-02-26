@@ -5,3 +5,6 @@
 >>>>>> teo
 
 02 Editando a mesma linha (teo edito essa linha) ---deu conflito na mesma linha
+
+(essa linha e teste da develop sobre oragnizacao)
+(essa linha foi editada pela branch: docs/testando_conflito)
