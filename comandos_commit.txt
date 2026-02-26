@@ -1,0 +1,9 @@
+Tipos de Commit (Conventional Commits)
+
+feat:     desenvolvimento de nova funcionalidade
+fix:      correção de bug
+docs:     mudanças na documentação
+style:    ajustes de formatação (sem alterar lógica)
+refactor: refatoração sem nova funcionalidade ou correção
+perf:     melhoria de performance
+test:     criação ou correção de testes
