@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+<<<<<<< HEAD (ana)
 01 Editando a mesma linha (ana edito essa linha)
 =======
 01 Editando a mesma linha (teo edito essa linha)
 >>>>>>> teo
 
-02 Editando a mesma linha (teo edito essa linha)
+02 Editando a mesma linha (teo edito essa linha) ---deu conflito na mesma linha
