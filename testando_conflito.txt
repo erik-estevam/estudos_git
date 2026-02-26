@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 01 Editando a mesma linha (ana edito essa linha)
+=======
+01 Editando a mesma linha (teo edito essa linha)
+>>>>>>> teo
 
-02 Editando a mesma linha
+02 Editando a mesma linha (teo edito essa linha)
