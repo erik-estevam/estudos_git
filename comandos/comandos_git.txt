@@ -1,17 +1,21 @@
 Comandos Git (Básicos)
 
 git init              # Inicia um repositório Git 
-git status            # Mostra o estado atual do repositório 
-git add .             # Adiciona todos os arquivos para commit 
-git commit -m ""      # Cria um commit com mensagem 
-git push              # Envia commits para o repositório remoto 
-git pull              # Atualiza o repositório local 
-git clone             # Clona um repositório remoto 
-git log               # Mostra o histórico de commits 
-git diff              # Mostra as mudanças antes do commit 
-git branch            # Lista as branches 
-git branch nome       # Cria uma nova branch 
-git branch -d nome    # Deleta uma branch local 
-git checkout nome     # Muda para outra branch 
-git checkout -b nome  # Cria e já muda para a branch 
+git status            # Mostra o estado atual do repositório
+git add .             # Adiciona todos os arquivos para commit
+git commit -m ""      # Cria um commit com mensagem
+
+git fetch             # Busca atualizações do repositório remoto (sem alterar sua branch atual)
+git pull              # Baixa e já integra as atualizações do repositório remoto
+git push              # Envia commits para o repositório remoto
+
+git clone             # Clona um repositório remoto
+git log               # Mostra o histórico de commits
+git diff              # Mostra as mudanças antes do commit
+
+git branch            # Lista as branches
+git branch nome       # Cria uma nova branch
+git branch -d nome    # Deleta uma branch local
+git checkout nome     # Muda para outra branch
+git checkout -b nome  # Cria e já muda para a branch
 git merge nome        # Junta a branch 'nome' na branch atual 
